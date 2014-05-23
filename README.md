@@ -11,5 +11,6 @@ Run search_engine.py to open a browser window which shows the search engine inte
 Search Engine up on heroku at -- http://quaero.herokuapp.com/
 
 
-Dynamic load of results on scroll implemented with AJAX (test word 'page')
-Google+ login implemented
+-Dynamic load of results on scroll implemented with AJAX (test word 'page')
+
+-Google+ login implemented
